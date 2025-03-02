@@ -1,0 +1,18 @@
+// Exemplo de código NajaScript
+int a = 5;
+int b = 10;
+
+// Variável flux que depende de a e b
+flux resultado = a + b;
+
+print(resultado); // Deve imprimir 15
+
+// Atualiza o valor de a
+a = 7;
+
+// O valor de resultado deve ser atualizado automaticamente
+print(resultado); // Deve imprimir 17
+
+// Leitura de entrada
+str nome = input("Digite seu nome: ");
+print("Olá, " + nome + "!");

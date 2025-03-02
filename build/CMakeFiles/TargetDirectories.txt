@@ -1,0 +1,3 @@
+/home/alexandre-landa/NajaScriptCompiler/build/CMakeFiles/najascript.dir
+/home/alexandre-landa/NajaScriptCompiler/build/CMakeFiles/edit_cache.dir
+/home/alexandre-landa/NajaScriptCompiler/build/CMakeFiles/rebuild_cache.dir

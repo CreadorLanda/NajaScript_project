@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/alexandre-landa/NajaScriptCompiler/build",
+  "command": "/usr/bin/g++ -I/usr/local/include/antlr4-runtime -I/home/alexandre-landa/NajaScriptCompiler/src -I/home/alexandre-landa/NajaScriptCompiler/src/grammar -g -std=gnu++17 -o CMakeFiles/najascript.dir/src/NajaScriptCompiler.cpp.o -c /home/alexandre-landa/NajaScriptCompiler/src/NajaScriptCompiler.cpp",
+  "file": "/home/alexandre-landa/NajaScriptCompiler/src/NajaScriptCompiler.cpp",
+  "output": "CMakeFiles/najascript.dir/src/NajaScriptCompiler.cpp.o"
+}
+]
